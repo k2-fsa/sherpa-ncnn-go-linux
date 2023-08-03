@@ -18,15 +18,10 @@ Usage examples:
     Please see
     https://github.com/k2-fsa/sherpa-ncnn/tree/master/go-api-examples/real-time-speech-recognition-from-microphone
 
- 2. Decode files using a non-streaming model
+ 2. Decode a file
 
     Please see
-    https://github.com/k2-fsa/sherpa-ncnn/tree/master/go-api-examples/non-streaming-decode-files
-
- 3. Decode files using a streaming model
-
-    Please see
-    https://github.com/k2-fsa/sherpa-ncnn/tree/master/go-api-examples/streaming-decode-files
+    https://github.com/k2-fsa/sherpa-ncnn/tree/master/go-api-examples/decode-file
 
 [sherpa-ncnn]: https://github.com/k2-fsa/sherpa-ncnn
 [ncnn]: https://github.com/tencent/ncnn
